@@ -10,7 +10,7 @@ a=str(two_digit_number[0])
 b=str(two_digit_number[1])
 c=(int(a)+int(b))
 print(c)
-
+# Testing the Github function.
 
 
 
